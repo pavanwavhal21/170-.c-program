@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 int main() {
 int n, i;
@@ -15,4 +15,3 @@ printf("Factorial of %d = %lld", n, fact);
 }
 return 0;
 }
-*/
